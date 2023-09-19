@@ -1,0 +1,2002 @@
+Flawfinder version 2.0.19, (C) 2001-2019 David A. Wheeler.
+Number of rules (primarily dangerous function names) in C/C++ ruleset: 222
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__binary_if_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__char_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__char_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__char_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__char_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_01.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_02.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_03.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_04.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_05.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_06.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_07.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_08.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_09.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_10.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_11.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_12.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_13.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_14.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_15.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_16.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_17.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_18.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_21.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_22a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_22b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_31.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_32.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_34.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_41.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_44.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_45.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_51a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_51b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_52a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_52b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_52c.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_53a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_53b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_53c.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_53d.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_54a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_54b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_54c.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_54d.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_54e.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_63a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_63b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_64a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_64b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_65a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_65b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_66a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_66b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_67a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_67b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_68a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_68b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__class_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__class_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__class_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__deref_after_check_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int64_t_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__int_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__int_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__int_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__int_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__long_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__long_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__long_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__long_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__null_check_after_deref_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__struct_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__struct_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__struct_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__struct_82_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_01.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_02.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_03.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_04.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_05.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_06.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_07.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_08.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_09.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_10.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_11.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_12.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_13.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_14.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_15.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_16.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_17.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_18.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_21.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_22a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_22b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_31.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_32.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_33.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_34.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_41.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_44.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_45.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_51a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_51b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_52a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_52b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_52c.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_53a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_53b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_53c.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_53d.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_54a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_54b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_54c.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_54d.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_54e.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_63a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_63b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_64a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_64b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_65a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_65b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_66a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_66b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_67a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_67b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_68a.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_68b.c
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_72a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_72b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_73a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_73b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_74a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_74b.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_81.h
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_81a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_81_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_81_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_81_goodG2B.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_82.h
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_82a.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_82_bad.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_82_goodB2G.cpp
+Examining .\CWE476_NULL_Pointer_Dereference__wchar_t_82_goodG2B.cpp
+Examining .\main.cpp
+Examining .\main_linux.cpp
+Examining .\testcases.h
+
+FINAL RESULTS:
+
+.\CWE476_NULL_Pointer_Dereference__binary_if_01.c:67:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_02.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_03.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_04.c:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_05.c:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_06.c:102:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_07.c:102:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_08.c:110:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_09.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_10.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_11.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_12.c:98:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_13.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_14.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_15.c:110:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_16.c:76:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_17.c:76:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__binary_if_18.c:72:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_01.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_02.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_03.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_04.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_05.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_06.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_07.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_08.c:169:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_09.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_10.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_11.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_12.c:154:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_13.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_14.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_15.c:206:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_16.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_17.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_18.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_21.c:153:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_22a.c:102:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_31.c:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_32.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_33.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_34.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_41.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_44.c:104:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_45.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_51a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_52a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_53a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_54a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_63a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_64a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_65a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_66a.c:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_67a.c:90:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_68a.c:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_72a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_73a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_74a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_81a.cpp:81:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_82a.cpp:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_01.cpp:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_02.cpp:174:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_03.cpp:174:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_04.cpp:180:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_05.cpp:180:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_06.cpp:179:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_07.cpp:179:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_08.cpp:187:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_09.cpp:174:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_10.cpp:174:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_11.cpp:173:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_12.cpp:176:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_13.cpp:173:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_14.cpp:173:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_15.cpp:223:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_16.cpp:120:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_17.cpp:117:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_18.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_21.cpp:165:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_22a.cpp:114:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_31.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_32.cpp:123:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_33.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_34.cpp:117:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_41.cpp:112:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_44.cpp:117:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_45.cpp:122:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_51a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_52a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_53a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_54a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_63a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_64a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_65a.cpp:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_66a.cpp:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_67a.cpp:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_68a.cpp:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_72a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_73a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_74a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_81a.cpp:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__class_82a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_01.c:65:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_02.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_03.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_04.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_05.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_06.c:99:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_07.c:99:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_08.c:107:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_09.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_10.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_11.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_12.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_13.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_14.c:94:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_15.c:107:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_16.c:74:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_17.c:74:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__deref_after_check_18.c:70:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_01.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_02.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_03.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_04.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_05.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_06.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_07.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_08.c:170:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_09.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_10.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_11.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_12.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_13.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_14.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_15.c:207:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_16.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_17.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_18.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_21.c:152:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_22a.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_31.c:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_32.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_33.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_34.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_41.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_44.c:104:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_45.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_51a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_52a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_53a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_54a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_63a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_64a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_65a.c:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_66a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_67a.c:93:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_68a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_72a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_73a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_74a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_81a.cpp:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int64_t_82a.cpp:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_01.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_02.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_03.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_04.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_05.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_06.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_07.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_08.c:170:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_09.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_10.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_11.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_12.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_13.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_14.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_15.c:207:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_16.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_17.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_18.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_21.c:152:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_22a.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_31.c:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_32.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_33.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_34.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_41.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_44.c:104:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_45.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_51a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_52a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_53a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_54a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_63a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_64a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_65a.c:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_66a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_67a.c:93:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_68a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_72a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_73a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_74a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_81a.cpp:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__int_82a.cpp:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_01.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_02.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_03.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_04.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_05.c:163:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_06.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_07.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_08.c:170:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_09.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_10.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_11.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_12.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_13.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_14.c:157:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_15.c:207:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_16.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_17.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_18.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_21.c:152:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_22a.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_31.c:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_32.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_33.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_34.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_41.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_44.c:104:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_45.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_51a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_52a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_53a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_54a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_63a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_64a.c:82:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_65a.c:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_66a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_67a.c:93:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_68a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_72a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_73a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_74a.cpp:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_81a.cpp:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__long_82a.cpp:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_01.c:70:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_02.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_03.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_04.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_05.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_06.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_07.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_08.c:113:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_09.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_10.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_11.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_12.c:101:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_13.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_14.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_15.c:113:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_16.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_17.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__null_check_after_deref_18.c:75:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_01.c:87:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_02.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_03.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_04.c:167:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_05.c:167:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_06.c:166:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_07.c:166:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_08.c:174:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_09.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_10.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_11.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_12.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_13.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_14.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_15.c:211:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_16.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_17.c:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_18.c:99:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_21.c:154:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_22a.c:107:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_31.c:98:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_32.c:113:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_33.cpp:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_34.c:107:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_41.c:102:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_44.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_45.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_51a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_52a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_53a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_54a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_63a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_64a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_65a.c:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_66a.c:91:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_67a.c:95:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_68a.c:91:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_72a.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_73a.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_74a.cpp:108:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_81a.cpp:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__struct_82a.cpp:89:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_01.c:85:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_02.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_03.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_04.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_05.c:162:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_06.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_07.c:161:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_08.c:169:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_09.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_10.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_11.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_12.c:154:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_13.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_14.c:156:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_15.c:206:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_16.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_17.c:106:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_18.c:97:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_21.c:153:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_22a.c:102:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_31.c:96:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_32.c:111:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_33.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_34.c:105:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_41.c:100:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_44.c:104:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_45.c:109:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_51a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_52a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_53a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_54a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_63a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_64a.c:79:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_65a.c:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_66a.c:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_67a.c:90:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_68a.c:86:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_72a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_73a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_74a.cpp:103:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_81a.cpp:81:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_82a.cpp:84:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\main.cpp:15:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\main_linux.cpp:15:  [3] (random) srand:
+  This function is not sufficiently random for security-related functions
+  such as key and nonce creation (CWE-327). Use a more secure technique for
+  acquiring random values.
+.\CWE476_NULL_Pointer_Dereference__char_66a.c:30:  [2] (buffer) char:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+.\CWE476_NULL_Pointer_Dereference__char_66a.c:48:  [2] (buffer) char:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+.\CWE476_NULL_Pointer_Dereference__char_66a.c:61:  [2] (buffer) char:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_66a.c:30:  [2] (buffer) wchar_t:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_66a.c:48:  [2] (buffer) wchar_t:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+.\CWE476_NULL_Pointer_Dereference__wchar_t_66a.c:61:  [2] (buffer) wchar_t:
+  Statically-sized arrays can be improperly restricted, leading to potential
+  overflows or other issues (CWE-119!/CWE-120). Perform bounds checking, use
+  functions that limit length, or ensure that the size is larger than the
+  maximum possible length.
+
+ANALYSIS SUMMARY:
+
+Hits = 356
+Lines analyzed = 61731 in approximately 0.71 seconds (87294 lines/second)
+Physical Source Lines of Code (SLOC) = 36999
+Hits@level = [0]   0 [1]   0 [2]   6 [3] 350 [4]   0 [5]   0
+Hits@level+ = [0+] 356 [1+] 356 [2+] 356 [3+] 350 [4+]   0 [5+]   0
+Hits/KSLOC@level+ = [0+] 9.62188 [1+] 9.62188 [2+] 9.62188 [3+] 9.45972 [4+]   0 [5+]   0
+Minimum risk level = 1
+
+Not every hit is necessarily a security vulnerability.
+You can inhibit a report by adding a comment in this form:
+// flawfinder: ignore
+Make *sure* it's a false positive!
+You can use the option --neverignore to show these.
+
+There may be other security vulnerabilities; review your code!
+See 'Secure Programming HOWTO'
+(https://dwheeler.com/secure-programs) for more information.
